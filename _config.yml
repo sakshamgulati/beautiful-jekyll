@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Saksham Gulati
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Making Data Speak
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "As a Business Analyst and Data Scientist, I regularly translate and communicate my data deep-dive results to stakeholders and clients in plain business language. I was introduced to analytics when as a naïve engineer in my sophomore undergraduate year, I tweaked a machine-learning algorithm to earn profits for my Bitcoin portfolio and I was amazed to see the real-time application of my work.I make data speak and have learned the importance of how these tools convey results to end-users.Orchestrating several data-driven ad hoc analyses assignments, KPI reports, and dashboards for both clients and stakeholders; has positioned me to glean information on the key aspects of Business Intelligence and the reporting side of analytics. At CIBC, I learned that it was imperative for me to translate the business objectives into analytical frameworks and translate the model insights into tailored solutions.I am looking to join a firm that is using data and technology to craft innovative solutions to abstract and challenging business problems. Let's connect, I’m always looking to learn and share my experiences in the fields of machine learning, data engineering, and data visualization"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Saksham Gulati
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "Sakshamgulati@rotman.utoronto.ca"
   facebook: deanattali
   github: daattali
   twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
