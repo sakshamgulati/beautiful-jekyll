@@ -20,11 +20,16 @@ description: Making Data Speak
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "As a Business Analyst and Data Scientist, I regularly translate and communicate my data deep-dive results to stakeholders and clients in plain business language. I was introduced to analytics when as a naïve engineer in my sophomore undergraduate year, I tweaked a machine-learning algorithm to earn profits for my Bitcoin portfolio and I was amazed to see the real-time application of my work.I make data speak and have learned the importance of how these tools convey results to end-users.Orchestrating several data-driven ad hoc analyses assignments, KPI reports, and dashboards for both clients and stakeholders; has positioned me to glean information on the key aspects of Business Intelligence and the reporting side of analytics. At CIBC, I learned that it was imperative for me to translate the business objectives into analytical frameworks and translate the model insights into tailored solutions.I am looking to join a firm that is using data and technology to craft innovative solutions to abstract and challenging business problems. Let's connect, I’m always looking to learn and share my experiences in the fields of machine learning, data engineering, and data visualization"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+ Blog: "https://sakshamgulati.github.io/"
+  Projects: 
+    - Data Visualization: "https://public.tableau.com/profile/saksham7771#!/"
+    - Yelp Sentiment Analysis: "https://github.com/sakshamgulati/YelpWebScraping"
+    - Field Aware Recommender Machine: "https://github.com/sakshamgulati/RecommenderMachines"
+    - TD Hackathon NLP Stories: "https://github.com/sakshamgulati/TD_Hackathon"
+    - MMA Code Repositories: "https://github.com/sakshamgulati/RotmanMMA2020"
+    - More: "https://github.com/sakshamgulati"
+  About Me: "aboutme"
+ 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -68,12 +73,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "Sakshamgulati@rotman.utoronto.ca"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "Saksham.gulati@rotman.utoronto.ca"
+  linkedin: "https://www.linkedin.com/in/sakshamgulati/" 
+  github: "https://github.com/sakshamgulati"
+  Tableau: "https://public.tableau.com/profile/saksham7771#!/"
 #  reddit: yourname
-  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -87,13 +91,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  github: true
+  Tableau : true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
