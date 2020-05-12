@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Predicting a healthy heart!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Text
