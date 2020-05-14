@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Dear diary
+title: Predicting the next FAANG?
 ---
 
-What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don't hear in those nursery rhymes is that she starves me if I don't go to school with her; it's the only way I can stay alive!  I'm thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).
+What if you could predict the next Google, Amazon or Netflix?
+
+Using data from Crunchbase, I created a model which used XG Boost and predicted the success of a startup with a 78% accuracy. Visit the link for more insights! Would love to connect!
