@@ -2,12 +2,13 @@
 layout: page
 title: About me
 subtitle: Why would you want to hire me?
+image:
 ---
 
 My name is Saksham Gulati.As a Business Analyst and Data Scientist, I regularly translate and communicate my data deep-dive results to stakeholders and clients in plain business language. I was introduced to analytics when as a naïve engineer in my sophomore undergraduate year, I tweaked a machine-learning algorithm to earn profits for my Bitcoin portfolio and I was amazed to see the real-time application of my work.
 
 
-### my history
+## My Learnings
 #### Data Management: 
 At UnitedHealth Group(UHG), I orchestrated several data-driven ad hoc analyses assignments, KPI reports, and dashboards for both clients and stakeholders; gleaning information on the key aspects of Business Intelligence and the reporting side of analytics. The most exciting work was an in-house project to build a database quality dashboard, where I amalgamated 32 disparate Oracle data sources to create a single data warehouse without disrupting daily operations and size limits. The dashboard tracked live data quality for 65+ million members over 300 aggregate metrics and identified even the slightest 1% deviations in data quality. My efforts were recognized and rewarded by UHG Directors with numerous “Bravo” awards.
 
