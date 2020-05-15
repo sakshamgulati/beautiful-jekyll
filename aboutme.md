@@ -9,6 +9,7 @@ My name is Saksham Gulati.As a Business Analyst and Data Scientist, I regularly 
 
 
 ## My Learnings
+
 #### Data Management: 
 At UnitedHealth Group(UHG), I orchestrated several data-driven ad hoc analyses assignments, KPI reports, and dashboards for both clients and stakeholders; gleaning information on the key aspects of Business Intelligence and the reporting side of analytics. The most exciting work was an in-house project to build a database quality dashboard, where I amalgamated 32 disparate Oracle data sources to create a single data warehouse without disrupting daily operations and size limits. The dashboard tracked live data quality for 65+ million members over 300 aggregate metrics and identified even the slightest 1% deviations in data quality. My efforts were recognized and rewarded by UHG Directors with numerous “Bravo” awards.
 
@@ -17,4 +18,7 @@ With the CIBC Innovation Banking’s arm, I identified the success of a start-up
 
 #### Data Storytelling: 
 I make data speak and have learned the importance of how these tools convey results to end users. On average, I have used datasets with more than 10+ million rows and created numerous Excel and BI dashboards to present clear solutions. Additionally, I have participated with numerous Kaggle competitions and published dashboards on my personal Tableau Public page allowing access to my work for those needing to solve business problems
+
+#### Client Management and Collaborative Thinking:
+As a Business Analyst, I regularly translated and communicated my data deep-dive results to stakeholders and clients in plain business language. As a Data Science Intern at CIBC, I learnt that it was imperative for me to convey business objectives into analytical frameworks and interpret model insights to create business value that all stakeholders can understand.
 
