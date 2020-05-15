@@ -3,6 +3,7 @@ layout: post
 title: Mental Health is important too 
 subtitle: Predicting the mental health cases  
 tags: [mentalhealth, adaboost, depression]
+image: /img/mentalhealth.jpeg
 ---
 Problem- Mental illness is a leading cause of disability in Canada
 
