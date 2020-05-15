@@ -20,7 +20,7 @@ description: Making Data Speak
 
 # List of links in the navigation bar
 navbar-links:
- Blog: "https://karanbabariya.github.io/"
+ Blog: "https://sakshamgulati.github.io/"
   Projects: 
     - Data Visualization: "https://public.tableau.com/profile/saksham7771#!/"
     - Yelp Sentiment Analysis: "https://github.com/sakshamgulati/YelpWebScraping"
