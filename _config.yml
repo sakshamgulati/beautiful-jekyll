@@ -21,10 +21,12 @@ description: Making Data Speak
 # List of links in the navigation bar
 navbar-links:
   Blog: "https://sakshamgulati.github.io/"
-  Projects: 
+  Projects:
+    - FreshPrice: "https://freshpriceprod.herokuapp.com/"
+    - Medium Articles: "https://sakshamgulati123.medium.com/"
+    - Azure Certifications: "https://www.credly.com/users/saksham-gulati"
     - Data Visualization: "https://public.tableau.com/profile/saksham7771#!/"
     - Yelp Sentiment Analysis: "https://github.com/sakshamgulati/YelpWebScraping"
-    - Field Aware Recommender Machine: "https://github.com/sakshamgulati/RecommenderMachines"
     - TD Hackathon NLP Stories: "https://github.com/sakshamgulati/TD_Hackathon"
     - MMA Code Repositories: "https://github.com/sakshamgulati/RotmanMMA2020"
     - More: "https://github.com/sakshamgulati"
@@ -72,11 +74,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "Saksham.gulati@rotman.utoronto.ca"
-  linkedin: "sakshamgulati/" 
-  github: "https://github.com/sakshamgulati"
+  rss: False
+  Email: "Sakshamgulati123@gmail.com"
+  Medium: "https://sakshamgulati123.medium.com/"
+  Linkedin: "sakshamgulati/" 
+  GitHub: "https://github.com/sakshamgulati"
   Tableau: "https://public.tableau.com/profile/saksham7771#!/"
+  telephone: +1-647-571-4918
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -91,9 +95,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  github: true
+  GitHub: true
   Tableau : true
-  linkedin: true
+  Linkedin: true
+  Medium: true
+  telephone: true
+  
+  
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
