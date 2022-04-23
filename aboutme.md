@@ -5,7 +5,11 @@ subtitle: Why would you want to hire me?
 image:
 ---
 
-My name is Saksham Gulati.As a Business Analyst and Data Scientist, I regularly translate and communicate my data deep-dive results to stakeholders and clients in plain business language. I was introduced to analytics when as a naïve engineer in my sophomore undergraduate year, I tweaked a machine-learning algorithm to earn profits for my Bitcoin portfolio and I was amazed to see the real-time application of my work.
+I make data speak and use data science to drive business-oriented results. 
+
+As a full-stack Data Scientist at Rogers, I engineer end-to-end pipelines from ETL and data transformation to inferencing using model deployment on Azure. Alongside, I regularly translate and communicate my big data deep-dive results to stakeholders and clients in plain business language. I am well versed with tools and technologies such as MS Azure ML Studio, Google Cloud Platform, Databricks, Python, PySpark, docker, Heroku, Streamlit and Streamlit. 
+
+On my weekends, I volunteer as a Data Science Mentor and help students break into Data Science and Analytics.
 
 
 ## My Learnings
