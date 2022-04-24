@@ -7,7 +7,7 @@ image:
 
 I make data speak and use data science to drive business-oriented results. 
 
-As a full-stack Data Scientist at Rogers, I engineer end-to-end pipelines from ETL and data transformation to inferencing using Azure Machine Learning Modules. Alongside, I regularly translate and communicate my big data deep-dive results to stakeholders and clients in plain business language. I am well versed with tools and technologies such as MS Azure ML Studio, Google Cloud Platform, Databricks, Python, PySpark, Docker, Heroku, Streamlit and Streamlit. 
+As a full-stack Data Scientist at Rogers, I engineer end-to-end pipelines from ETL and data transformation to inferencing using Azure Machine Learning Modules. Alongside, I regularly translate and communicate my big data deep-dive results to stakeholders and clients in plain business language. I am well versed with tools and technologies such as MS Azure ML Studio, Google Cloud Platform, Databricks, Python, PySpark, Docker, Heroku, Streamlit and Tableau. 
 
 On my weekends, I volunteer as a Data Science Mentor and help students break into Data Science and Analytics.
 
